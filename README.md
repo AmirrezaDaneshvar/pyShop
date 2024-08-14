@@ -43,7 +43,7 @@ Run the development server:
 python manage.py runserver
 
 Usage
-Access the application: Open your web browser and go to http://127.0.0.1:8000/.
+Access the application: Open your web browser and go to http://127.0.0.1:8000/products.
 Admin Dashboard: Access the admin dashboard at http://127.0.0.1:8000/admin/ using the superuser credentials you created.
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
